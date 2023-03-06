@@ -1,0 +1,33 @@
+html, body{
+  margin: 0px;
+  background-color: #2f4f30;
+  color: white;
+}
+
+.hdrTitulo{
+  text-align: center;
+  background-color: black;
+  color: azure;
+  padding: 20px;
+  font-size: 25px;
+}
+
+.carta{
+  width: 150px;
+  position: relative;
+  left: 100px;
+  margin-left: -70px;
+}
+
+.titulo{
+  width: 100%;
+  background-color: black;
+  height: 50px;
+  text-align: center;
+  font-style: bold;
+  font-size: 25px;
+}
+
+#computadora-cartas, #jugador-cartas{
+  height: 250px;
+}
